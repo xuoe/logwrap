@@ -1,0 +1,8 @@
+github.com/buildkite/shellwords v0.0.0-20180315110454-59467a9b8e10 h1:XwHQ5xDtYPdtBbVPyRO6UZoWZe8/mbKUb076f8x7RvI=
+github.com/buildkite/shellwords v0.0.0-20180315110454-59467a9b8e10/go.mod h1:gv0DYOzHEsKgo31lTCDGauIg4DTTGn41Bzp+t3wSOlk=
+github.com/mackerelio/go-osstat v0.1.0 h1:e57QHeHob8kKJ5FhcXGdzx5O6Ktuc5RHMDIkeqhgkFA=
+github.com/mackerelio/go-osstat v0.1.0/go.mod h1:1K3NeYLhMHPvzUu+ePYXtoB58wkaRpxZsGClZBJyIFw=
+github.com/pborman/ansi v1.0.0 h1:OqjHMhvlSuCCV5JT07yqPuJPQzQl+WXsiZ14gZsqOrQ=
+github.com/pborman/ansi v1.0.0/go.mod h1:SgWzwMAx1X/Ez7i90VqF8LRiQtx52pWDiQP+x3iGnzw=
+golang.org/x/sys v0.0.0-20190410235845-0ad05ae3009d h1:+9jagSGtlJZAaZGdRvJikXNpc5lh2/rq9eyMN/5kmwA=
+golang.org/x/sys v0.0.0-20190410235845-0ad05ae3009d/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
