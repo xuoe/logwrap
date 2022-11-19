@@ -8,7 +8,7 @@ logwrap
 Installation
 ------------
 
-If you have Go installed, `go get github.com/xuoe/logwrap` and ensure `$GOPATH/bin` is part of `$PATH`.
+If you have Go installed, `go install github.com/xuoe/logwrap@latest` and ensure `$GOPATH/bin` is part of `$PATH`.
 
 Otherwise, grab a binary for your platform from the [releases page](https://github.com/xuoe/logwrap/releases) and place it somewhere in `$PATH`.
 
