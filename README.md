@@ -1,4 +1,6 @@
-[![CI Status](https://img.shields.io/github/workflow/status/xuoe/logwrap/CI?style=flat-square)](https://github.com/xuoe/logwrap/actions?query=workflow:CI) [![Latest Release](https://img.shields.io/github/v/release/xuoe/logwrap?style=flat-square)](https://github.com/xuoe/logwrap/releases/latest) [![Changelog](https://img.shields.io/badge/changelog-latest-blue?style=flat-square)](CHANGELOG.md)
+[![CI Status](https://img.shields.io/github/actions/workflow/status/xuoe/logwrap/ci.yml?style=flat-square)](https://github.com/xuoe/logwrap/actions?query=workflow:CI)
+[![Latest Release](https://img.shields.io/github/v/release/xuoe/logwrap?style=flat-square)](https://github.com/xuoe/logwrap/releases/latest)
+[![Changelog](https://img.shields.io/badge/changelog-latest-blue?style=flat-square)](CHANGELOG.md)
 
 logwrap
 =======
